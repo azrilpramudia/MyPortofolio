@@ -1,3 +1,0 @@
-# My Portofolio
-- NextJS
-- TailwindCSS
