@@ -1,2 +1,3 @@
-Nexjs 13
-TailwindCSS
+# My Portofolio
+- NextJS
+- TailwindCSS
