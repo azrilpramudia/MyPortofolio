@@ -8,9 +8,9 @@ const projects = [
   {
     name: "CRUD",
     description:
-      "Project CRUD with Golang, Fiber, GORM, and Mysql.",
-    image: "/Golang-CRUD.jpg",
-    github: "",
+      "Project CRUD Data Pasien with Golang, Boostrap 5 and Mysql.",
+    image: "/golang-Programing.jpg",
+    github: "https://github.com/Azrilpramudia/crud-go-datapasien.git",
     link: "",
   },
   {
@@ -25,6 +25,14 @@ const projects = [
     description:
       "Todo app with golang.",
     image: "/TODO APP.jpg",
+    github: "",
+    link: "",
+  },
+  {
+    name: "Authentication REST API",
+    description:
+      "Authentication REST API with Golang and JWT",
+    image: "/Jwt Authentication.jpg",
     github: "",
     link: "",
   },
