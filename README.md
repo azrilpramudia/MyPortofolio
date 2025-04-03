@@ -1,6 +1,7 @@
 # Personal Portofolio
 ## Tech Stack
 - Next.js 13
+- TypeScript
 - Vite
 - Tailwind
 
